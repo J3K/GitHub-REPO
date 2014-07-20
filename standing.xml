@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<spocosy version="1.0">
+    <standing id="820745" league="Premier League" sport="Football" template="England Premier League" tournament="2010/2011" ut="2011-03-01">
+        <participant defeits="1" draws="9" goalsagainst="25" goalsfor="61" info="championsleague" participantid="10260" participantname="Manchester United" played="27" points="60" rank="1" wins="17"/>
+        <participant defeits="5" draws="5" goalsagainst="27" goalsfor="57" info="championsleague" participantid="9825" participantname="Arsenal" played="27" points="56" rank="2" wins="17"/>
+        <participant defeits="6" draws="8" goalsagainst="25" goalsfor="44" info="championsleague" participantid="8456" participantname="Manchester City" played="28" points="50" rank="3" wins="14"/>
+        <participant defeits="6" draws="8" goalsagainst="31" goalsfor="38" info="championsleaguequal" participantid="8586" participantname="Tottenham" played="27" points="47" rank="4" wins="13"/>
+        <participant defeits="7" draws="6" goalsagainst="22" goalsfor="46" info="uefacup" participantid="8455" participantname="Chelsea" played="26" points="45" rank="5" wins="13"/>
+        <participant defeits="11" draws="6" goalsagainst="35" goalsfor="36" info="uefacup" participantid="8650" participantname="Liverpool" played="28" points="39" rank="6" wins="11"/>
+        <participant defeits="9" draws="10" goalsagainst="38" goalsfor="39" info="" participantid="8559" participantname="Bolton" played="28" points="37" rank="7" wins="9"/>
+        <participant defeits="9" draws="10" goalsagainst="35" goalsfor="33" info="" participantid="8472" participantname="Sunderland" played="28" points="37" rank="8" wins="9"/>
+        <participant defeits="10" draws="9" goalsagainst="39" goalsfor="43" info="" participantid="10261" participantname="Newcastle" played="28" points="36" rank="9" wins="9"/>
+        <participant defeits="14" draws="4" goalsagainst="35" goalsfor="32" info="" participantid="10194" participantname="Stoke" played="28" points="34" rank="10" wins="10"/>
+        <participant defeits="8" draws="12" goalsagainst="36" goalsfor="35" info="" participantid="8668" participantname="Everton" played="27" points="33" rank="11" wins="7"/>
+        <participant defeits="11" draws="9" goalsagainst="47" goalsfor="35" info="" participantid="10252" participantname="Aston Villa" played="28" points="33" rank="12" wins="8"/>
+        <participant defeits="8" draws="14" goalsagainst="29" goalsfor="29" info="" participantid="9879" participantname="Fulham" played="28" points="32" rank="13" wins="6"/>
+        <participant defeits="14" draws="5" goalsagainst="46" goalsfor="35" info="" participantid="8655" participantname="Blackburn" played="28" points="32" rank="14" wins="9"/>
+        <participant defeits="14" draws="5" goalsagainst="55" goalsfor="42" info="" participantid="8483" participantname="Blackpool" played="28" points="32" rank="15" wins="9"/>
+        <participant defeits="8" draws="12" goalsagainst="35" goalsfor="25" info="" participantid="8658" participantname="Birmingham" played="26" points="30" rank="16" wins="6"/>
+        <participant defeits="13" draws="8" goalsagainst="53" goalsfor="36" info="" participantid="8659" participantname="West Bromwich" played="28" points="29" rank="17" wins="7"/>
+        <participant defeits="16" draws="4" goalsagainst="46" goalsfor="31" info="relegation" participantid="8602" participantname="Wolverhampton" played="28" points="28" rank="18" wins="8"/>
+        <participant defeits="12" draws="10" goalsagainst="49" goalsfor="33" info="relegation" participantid="8654" participantname="West Ham" played="28" points="28" rank="19" wins="6"/>
+        <participant defeits="11" draws="12" goalsagainst="49" goalsfor="27" info="relegation" participantid="8528" participantname="Wigan" played="28" points="27" rank="20" wins="5"/>
+    </standing>
+    <standing id="821290" league="LIGA BBVA" sport="Football" template="Spain LIGA BBVA" tournament="2010/2011" ut="2011-03-01">
+        <participant defeits="1" draws="2" goalsagainst="13" goalsfor="76" info="championsleague" participantid="8634" participantname="Barcelona" played="25" points="68" rank="1" wins="22"/>
+        <participant defeits="2" draws="4" goalsagainst="19" goalsfor="55" info="championsleague" participantid="8633" participantname="Real Madrid" played="25" points="61" rank="2" wins="19"/>
+        <participant defeits="4" draws="6" goalsagainst="26" goalsfor="40" info="championsleague" participantid="10267" participantname="Valencia" played="25" points="51" rank="3" wins="15"/>
+        <participant defeits="6" draws="5" goalsagainst="26" goalsfor="44" info="championsleaguequal" participantid="10205" participantname="Villarreal" played="25" points="47" rank="4" wins="14"/>
+        <participant defeits="11" draws="1" goalsagainst="36" goalsfor="34" info="uefacup" participantid="8558" participantname="Espanyol" played="25" points="40" rank="5" wins="13"/>
+        <participant defeits="11" draws="2" goalsagainst="36" goalsfor="39" info="uefaqual" participantid="8315" participantname="Athletic Bilbao" played="25" points="38" rank="6" wins="12"/>
+        <participant defeits="10" draws="5" goalsagainst="40" goalsfor="38" info="" participantid="8302" participantname="Sevilla" played="25" points="35" rank="7" wins="10"/>
+        <participant defeits="11" draws="4" goalsagainst="33" goalsfor="35" info="" participantid="9906" participantname="Atletico Madrid" played="25" points="34" rank="8" wins="10"/>
+        <participant defeits="13" draws="1" goalsagainst="41" goalsfor="36" info="" participantid="8560" participantname="Real Sociedad" played="25" points="34" rank="9" wins="11"/>
+        <participant defeits="11" draws="5" goalsagainst="38" goalsfor="35" info="" participantid="8305" participantname="Getafe" played="25" points="32" rank="10" wins="9"/>
+        <participant defeits="12" draws="4" goalsagainst="34" goalsfor="25" info="" participantid="8661" participantname="Mallorca" played="25" points="31" rank="11" wins="9"/>
+        <participant defeits="10" draws="8" goalsagainst="35" goalsfor="23" info="" participantid="8696" participantname="Racing Santander" played="25" points="29" rank="12" wins="7"/>
+        <participant defeits="14" draws="3" goalsagainst="37" goalsfor="26" info="" participantid="8581" participantname="Levante" played="25" points="27" rank="13" wins="8"/>
+        <participant defeits="10" draws="9" goalsagainst="35" goalsfor="21" info="" participantid="9783" participantname="Deportivo La Coruna" played="25" points="27" rank="14" wins="6"/>
+        <participant defeits="13" draws="5" goalsagainst="38" goalsfor="24" info="" participantid="10278" participantname="Hercules" played="25" points="26" rank="15" wins="7"/>
+        <participant defeits="12" draws="7" goalsagainst="32" goalsfor="26" info="" participantid="8371" participantname="Osasuna" played="25" points="25" rank="16" wins="6"/>
+        <participant defeits="10" draws="10" goalsagainst="31" goalsfor="23" info="" participantid="9869" participantname="Gijon" played="25" points="25" rank="17" wins="5"/>
+        <participant defeits="11" draws="9" goalsagainst="37" goalsfor="22" info="relegation" participantid="8394" participantname="Zaragoza" played="25" points="24" rank="18" wins="5"/>
+        <participant defeits="14" draws="5" goalsagainst="51" goalsfor="34" info="relegation" participantid="9864" participantname="Malaga" played="25" points="23" rank="19" wins="6"/>
+        <participant defeits="12" draws="9" goalsagainst="43" goalsfor="25" info="relegation" participantid="9865" participantname="Almeria" played="25" points="21" rank="20" wins="4"/>
+    </standing>
+</spocosy>

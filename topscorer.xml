@@ -1,0 +1,468 @@
+<?xml version="1.0" ?>
+<spocosy version="1.0">
+    <topscorers id="820745" league="Premier League" sport="Football" template="England Premier League" tournament="2010/2011" ut="2011-03-01">
+        <topscorer goals="19" participantid="10260" participantname="Manchester United" player="Dimitar Berbatov" playerid="27430" rank="1"/>
+        <topscorer goals="18" participantid="8456" participantname="Manchester City" player="Carlos Tevez" playerid="38817" rank="2"/>
+        <topscorer goals="11" participantid="10261" participantname="Newcastle" player="Kevin Nolan" playerid="23933" rank="3"/>
+        <topscorer goals="11" participantid="8650" participantname="Liverpool" player="Andrew Carroll" playerid="47382" rank="3"/>
+        <topscorer goals="10" participantid="10252" participantname="Aston Villa" player="Darren Bent" playerid="23949" rank="5"/>
+        <topscorer goals="10" participantid="9825" participantname="Arsenal" player="Robin van Persie" playerid="30843" rank="5"/>
+        <topscorer goals="10" participantid="8586" participantname="Tottenham" player="Rafael van der Vaart" playerid="30840" rank="5"/>
+        <topscorer goals="9" participantid="8455" participantname="Chelsea" player="Fernando Torres" playerid="30853" rank="8"/>
+        <topscorer goals="9" participantid="8668" participantname="Everton" player="Tim Cahill" playerid="30876" rank="8"/>
+        <topscorer goals="9" participantid="8559" participantname="Bolton" player="Johan Elmander" playerid="34261" rank="8"/>
+        <topscorer goals="9" participantid="9879" participantname="Fulham" player="Clint Dempsey" playerid="30956" rank="8"/>
+        <topscorer goals="9" participantid="10260" participantname="Manchester United" player="Javier Hernandez" playerid="70409" rank="8"/>
+        <topscorer goals="9" participantid="8472" participantname="Sunderland" player="Asamoah Gyan" playerid="41980" rank="8"/>
+        <topscorer goals="9" participantid="8659" participantname="West Bromwich" player="Peter Odemwingie" playerid="25550" rank="8"/>
+        <topscorer goals="9" participantid="9825" participantname="Arsenal" player="Samir Nasri" playerid="26181" rank="8"/>
+        <topscorer goals="9" participantid="8483" participantname="Blackpool" player="Dudley Campbell" playerid="21853" rank="8"/>
+        <topscorer goals="9" participantid="10260" participantname="Manchester United" player=" Nani" playerid="40945" rank="8"/>
+        <topscorer goals="9" participantid="8455" participantname="Chelsea" player="Florent Malouda" playerid="30679" rank="8"/>
+        <topscorer goals="9" participantid="8455" participantname="Chelsea" player="Didier Drogba" playerid="30822" rank="8"/>
+        <topscorer goals="7" participantid="8559" participantname="Bolton" player="Kevin Davies" playerid="23934" rank="20"/>
+        <topscorer goals="7" participantid="9825" participantname="Arsenal" player="Marouane Chamakh" playerid="25537" rank="20"/>
+        <topscorer goals="7" participantid="9825" participantname="Arsenal" player="Theo Walcott" playerid="31013" rank="20"/>
+        <topscorer goals="7" participantid="8455" participantname="Chelsea" player="Salomon Kalou" playerid="31906" rank="20"/>
+        <topscorer goals="7" participantid="8586" participantname="Tottenham" player="Gareth Bale" playerid="31921" rank="20"/>
+        <topscorer goals="7" participantid="8528" participantname="Wigan" player="Hugo Rodallega" playerid="71550" rank="20"/>
+        <topscorer goals="7" participantid="8483" participantname="Blackpool" player="Charlie Adam" playerid="39109" rank="20"/>
+        <topscorer goals="6" participantid="10194" participantname="Stoke" player="Robert Huth" playerid="38899" rank="27"/>
+        <topscorer goals="6" participantid="8668" participantname="Everton" player="Louis Saha" playerid="30735" rank="27"/>
+        <topscorer goals="6" participantid="8586" participantname="Tottenham" player="Roman Pavlyuchenko" playerid="40755" rank="27"/>
+        <topscorer goals="6" participantid="8654" participantname="West Ham" player="Frederic Piquionne" playerid="26347" rank="27"/>
+        <topscorer goals="6" participantid="8456" participantname="Manchester City" player="Mario Balotelli" playerid="108808" rank="27"/>
+        <topscorer goals="6" participantid="8472" participantname="Sunderland" player="Danny Welbeck" playerid="113836" rank="27"/>
+        <topscorer goals="6" participantid="10260" participantname="Manchester United" player="Wayne Rooney" playerid="30829" rank="27"/>
+        <topscorer goals="6" participantid="10252" participantname="Aston Villa" player="Ashley Young" playerid="23354" rank="27"/>
+        <topscorer goals="6" participantid="8455" participantname="Chelsea" player="Nicolas Anelka" playerid="37804" rank="27"/>
+        <topscorer goals="6" participantid="10252" participantname="Aston Villa" player="Stewart Downing" playerid="30892" rank="27"/>
+        <topscorer goals="6" participantid="8602" participantname="Wolverhampton" player="Sylvan Ebanks-Blake" playerid="34433" rank="27"/>
+        <topscorer goals="6" participantid="8668" participantname="Everton" player="Jermaine Beckford" playerid="31989" rank="27"/>
+        <topscorer goals="5" participantid="8658" participantname="Birmingham" player="Craig Gardner" playerid="25075" rank="39"/>
+        <topscorer goals="5" participantid="10194" participantname="Stoke" player="Kenwyne Jones" playerid="30988" rank="39"/>
+        <topscorer goals="5" participantid="8650" participantname="Liverpool" player="Raul Meireles" playerid="25923" rank="39"/>
+        <topscorer goals="5" participantid="9825" participantname="Arsenal" player="Andrey Arshavin" playerid="3520" rank="39"/>
+        <topscorer goals="5" participantid="8658" participantname="Birmingham" player="Nikola Zigic" playerid="38567" rank="39"/>
+        <topscorer goals="5" participantid="8654" participantname="West Ham" player="Carlton Cole" playerid="34543" rank="39"/>
+        <topscorer goals="5" participantid="10261" participantname="Newcastle" player="Leon Best" playerid="35454" rank="39"/>
+        <topscorer goals="5" participantid="8483" participantname="Blackpool" player="Marlon Harewood" playerid="24772" rank="39"/>
+        <topscorer goals="5" participantid="8654" participantname="West Ham" player="Scott Parker" playerid="24223" rank="39"/>
+        <topscorer goals="5" participantid="8655" participantname="Blackburn" player="Nikola Kalinic" playerid="21613" rank="39"/>
+        <topscorer goals="5" participantid="8483" participantname="Blackpool" player="Luke Varney" playerid="22959" rank="39"/>
+        <topscorer goals="4" participantid="8655" participantname="Blackburn" player="Morten Gamst Pedersen" playerid="23916" rank="50"/>
+        <topscorer goals="4" participantid="10194" participantname="Stoke" player="Matthew Etherington" playerid="24773" rank="50"/>
+        <topscorer goals="4" participantid="8602" participantname="Wolverhampton" player="Steven Fletcher" playerid="32627" rank="50"/>
+        <topscorer goals="4" participantid="8483" participantname="Blackpool" player="Gary Taylor-Fletcher" playerid="23464" rank="50"/>
+        <topscorer goals="4" participantid="10252" participantname="Aston Villa" player="Marc Albrighton" playerid="139671" rank="50"/>
+        <topscorer goals="4" participantid="8559" participantname="Bolton" player="Daniel Sturridge" playerid="51553" rank="50"/>
+        <topscorer goals="4" participantid="8650" participantname="Liverpool" player="Steven Gerrard" playerid="30618" rank="50"/>
+        <topscorer goals="4" participantid="8528" participantname="Wigan" player="Charles N´Zogbia" playerid="29581" rank="50"/>
+        <topscorer goals="4" participantid="9825" participantname="Arsenal" player="Alexandre Song" playerid="23678" rank="50"/>
+        <topscorer goals="4" participantid="10261" participantname="Newcastle" player="Shola Ameobi" playerid="24225" rank="50"/>
+        <topscorer goals="4" participantid="8650" participantname="Liverpool" player="Dirk Kuyt" playerid="37139" rank="50"/>
+        <topscorer goals="4" participantid="8456" participantname="Manchester City" player="Yaya Touré" playerid="36615" rank="50"/>
+        <topscorer goals="4" participantid="10260" participantname="Manchester United" player="Ji-Sung Park" playerid="30802" rank="50"/>
+        <topscorer goals="4" participantid="10260" participantname="Manchester United" player="Nemanja Vidic" playerid="30865" rank="50"/>
+        <topscorer goals="4" participantid="8472" participantname="Sunderland" player="Kieran Richardson" playerid="30352" rank="50"/>
+        <topscorer goals="4" participantid="10261" participantname="Newcastle" player="Joey Barton" playerid="24205" rank="50"/>
+        <topscorer goals="3" participantid="8528" participantname="Wigan" player="James McCarthy" playerid="101192" rank="66"/>
+        <topscorer goals="3" participantid="9879" participantname="Fulham" player="Brede Hangeland" playerid="26777" rank="66"/>
+        <topscorer goals="3" participantid="8658" participantname="Birmingham" player="Liam Ridgewell" playerid="23787" rank="66"/>
+        <topscorer goals="3" participantid="8668" participantname="Everton" player="Seamus Coleman" playerid="77690" rank="66"/>
+        <topscorer goals="3" participantid="8659" participantname="West Bromwich" player="Carlos Vela" playerid="75342" rank="66"/>
+        <topscorer goals="3" participantid="8655" participantname="Blackburn" player="Mame Biram Diouf" playerid="72735" rank="66"/>
+        <topscorer goals="3" participantid="8658" participantname="Birmingham" player="Cameron Jerome" playerid="31953" rank="66"/>
+        <topscorer goals="3" participantid="8655" participantname="Blackburn" player="Christopher Samba" playerid="19020" rank="66"/>
+        <topscorer goals="3" participantid="8586" participantname="Tottenham" player="Aaron Lennon" playerid="30895" rank="66"/>
+        <topscorer goals="3" participantid="8655" participantname="Blackburn" player="Ryan Nelsen" playerid="23921" rank="66"/>
+        <topscorer goals="3" participantid="8659" participantname="West Bromwich" player="Jerome Thomas" playerid="23954" rank="66"/>
+        <topscorer goals="3" participantid="8668" participantname="Everton" player="Mikel Arteta" playerid="24011" rank="66"/>
+        <topscorer goals="3" participantid="8455" participantname="Chelsea" player="Branislav Ivanovic" playerid="31306" rank="66"/>
+        <topscorer goals="3" participantid="8456" participantname="Manchester City" player="Adam Johnson" playerid="24159" rank="66"/>
+        <topscorer goals="3" participantid="8455" participantname="Chelsea" player="Mickael Essien" playerid="30675" rank="66"/>
+        <topscorer goals="3" participantid="8455" participantname="Chelsea" player="Frank Lampard" playerid="30631" rank="66"/>
+        <topscorer goals="3" participantid="9825" participantname="Arsenal" player="Cesc Fabregas" playerid="30613" rank="66"/>
+        <topscorer goals="3" participantid="8650" participantname="Liverpool" player="Maxi Rodriguez" playerid="33632" rank="66"/>
+        <topscorer goals="3" participantid="8659" participantname="West Bromwich" player="James Morrison" playerid="24171" rank="66"/>
+        <topscorer goals="3" participantid="8602" participantname="Wolverhampton" player="Kevin Doyle" playerid="23291" rank="66"/>
+        <topscorer goals="3" participantid="8655" participantname="Blackburn" player="Benjani Mwaruwari" playerid="25342" rank="66"/>
+        <topscorer goals="3" participantid="8528" participantname="Wigan" player="Tom Cleverley" playerid="160713" rank="66"/>
+        <topscorer goals="3" participantid="10194" participantname="Stoke" player="Ricardo Fuller" playerid="38755" rank="66"/>
+        <topscorer goals="3" participantid="8654" participantname="West Ham" player="Demba Ba" playerid="35411" rank="66"/>
+        <topscorer goals="3" participantid="10261" participantname="Newcastle" player="Peter Løvenkrands" playerid="36412" rank="66"/>
+        <topscorer goals="3" participantid="10252" participantname="Aston Villa" player="Ciaran Clark" playerid="161414" rank="66"/>
+        <topscorer goals="3" participantid="8654" participantname="West Ham" player="Victor Obinna" playerid="24450" rank="66"/>
+        <topscorer goals="3" participantid="8528" participantname="Wigan" player="Ben Watson" playerid="22991" rank="66"/>
+        <topscorer goals="3" participantid="8655" participantname="Blackburn" player="Jason Roberts" playerid="34176" rank="66"/>
+        <topscorer goals="3" participantid="8659" participantname="West Bromwich" player="Somen Tchoyi" playerid="33790" rank="66"/>
+        <topscorer goals="3" participantid="10194" participantname="Stoke" player="Jonathan Walters" playerid="33881" rank="66"/>
+        <topscorer goals="3" participantid="8602" participantname="Wolverhampton" player="Matthew Jarvis" playerid="23538" rank="66"/>
+        <topscorer goals="3" participantid="8559" participantname="Bolton" player="Martin Petrov" playerid="33633" rank="66"/>
+        <topscorer goals="3" participantid="10252" participantname="Aston Villa" player="Emile Heskey" playerid="34466" rank="66"/>
+        <topscorer goals="2" participantid="8654" participantname="West Ham" player="Valon Behrami" playerid="30966" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Chris Baird" playerid="43247" rank="100"/>
+        <topscorer goals="2" participantid="8483" participantname="Blackpool" player="David Vaughan" playerid="40563" rank="100"/>
+        <topscorer goals="2" participantid="8658" participantname="Birmingham" player="Roger Johnson" playerid="34193" rank="100"/>
+        <topscorer goals="2" participantid="10261" participantname="Newcastle" player="Fabricio Coloccini" playerid="30929" rank="100"/>
+        <topscorer goals="2" participantid="8654" participantname="West Ham" player="Mark Noble" playerid="37169" rank="100"/>
+        <topscorer goals="2" participantid="8456" participantname="Manchester City" player="David Silva" playerid="37459" rank="100"/>
+        <topscorer goals="2" participantid="10252" participantname="Aston Villa" player="Gabriel Agbonlahor" playerid="23264" rank="100"/>
+        <topscorer goals="2" participantid="8659" participantname="West Bromwich" player="Chris Brunt" playerid="23257" rank="100"/>
+        <topscorer goals="2" participantid="9825" participantname="Arsenal" player="Laurent Koscielny" playerid="46539" rank="100"/>
+        <topscorer goals="2" participantid="8456" participantname="Manchester City" player="Gareth Barry" playerid="23782" rank="100"/>
+        <topscorer goals="2" participantid="8472" participantname="Sunderland" player="Phillip Bardsley" playerid="36786" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Damien Duff" playerid="34574" rank="100"/>
+        <topscorer goals="2" participantid="8650" participantname="Liverpool" player="Sotirios Kyrgiakos" playerid="39032" rank="100"/>
+        <topscorer goals="2" participantid="8586" participantname="Tottenham" player="Niko Kranjcar" playerid="38820" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Moussa Dembélé" playerid="41008" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Andrew Johnson" playerid="31907" rank="100"/>
+        <topscorer goals="2" participantid="8650" participantname="Liverpool" player="David N`Gog" playerid="41175" rank="100"/>
+        <topscorer goals="2" participantid="8602" participantname="Wolverhampton" player="Kevin Foley" playerid="23099" rank="100"/>
+        <topscorer goals="2" participantid="8650" participantname="Liverpool" player="Glen Johnson" playerid="34036" rank="100"/>
+        <topscorer goals="2" participantid="8602" participantname="Wolverhampton" player="Nenad Milijas" playerid="31317" rank="100"/>
+        <topscorer goals="2" participantid="9825" participantname="Arsenal" player="Nicklas Bendtner" playerid="36410" rank="100"/>
+        <topscorer goals="2" participantid="8586" participantname="Tottenham" player="Alan Hutton" playerid="32870" rank="100"/>
+        <topscorer goals="2" participantid="8602" participantname="Wolverhampton" player="Stephen Hunt" playerid="23225" rank="100"/>
+        <topscorer goals="2" participantid="8559" participantname="Bolton" player="Stuart Holden" playerid="24455" rank="100"/>
+        <topscorer goals="2" participantid="8655" participantname="Blackburn" player="David Dunn" playerid="30342" rank="100"/>
+        <topscorer goals="2" participantid="8659" participantname="West Bromwich" player="Marc-Antoine Fortuné" playerid="26494" rank="100"/>
+        <topscorer goals="2" participantid="10194" participantname="Stoke" player="Rory Delap" playerid="25668" rank="100"/>
+        <topscorer goals="2" participantid="8559" participantname="Bolton" player="Chung-Yong Lee" playerid="130670" rank="100"/>
+        <topscorer goals="2" participantid="8658" participantname="Birmingham" player="Lee Bowyer" playerid="33049" rank="100"/>
+        <topscorer goals="2" participantid="8602" participantname="Wolverhampton" player="Jamie O'Hara" playerid="25421" rank="100"/>
+        <topscorer goals="2" participantid="10194" participantname="Stoke" player="Dean Whitehead" playerid="24411" rank="100"/>
+        <topscorer goals="2" participantid="8659" participantname="West Bromwich" player="Paul Scharner" playerid="25005" rank="100"/>
+        <topscorer goals="2" participantid="10252" participantname="Aston Villa" player="James Collins" playerid="24751" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Diomansy Kamara" playerid="24661" rank="100"/>
+        <topscorer goals="2" participantid="8483" participantname="Blackpool" player="Alex Baptiste" playerid="24469" rank="100"/>
+        <topscorer goals="2" participantid="8659" participantname="West Bromwich" player="Youssuf Mulumbu" playerid="71502" rank="100"/>
+        <topscorer goals="2" participantid="8668" participantname="Everton" player="Leighton Baines" playerid="24846" rank="100"/>
+        <topscorer goals="2" participantid="9879" participantname="Fulham" player="Simon Davies" playerid="24020" rank="100"/>
+        <topscorer goals="2" participantid="10260" participantname="Manchester United" player="Ryan Giggs" playerid="24154" rank="100"/>
+        <topscorer goals="2" participantid="8586" participantname="Tottenham" player="Peter Crouch" playerid="30830" rank="100"/>
+        <topscorer goals="2" participantid="8559" participantname="Bolton" player="Ivan Klasnic" playerid="30753" rank="100"/>
+        <topscorer goals="2" participantid="10260" participantname="Manchester United" player="Darren Fletcher" playerid="24148" rank="100"/>
+        <topscorer goals="2" participantid="8655" participantname="Blackburn" player="Brett Emerton" playerid="30842" rank="100"/>
+        <topscorer goals="2" participantid="8455" participantname="Chelsea" player="John Terry" playerid="30627" rank="100"/>
+        <topscorer goals="2" participantid="8658" participantname="Birmingham" player="Scott Dann" playerid="23837" rank="100"/>
+        <topscorer goals="1" participantid="9825" participantname="Arsenal" player="Jack Wilshere" playerid="143793" rank="146"/>
+        <topscorer goals="1" participantid="10194" participantname="Stoke" player="Marc Wilson" playerid="47418" rank="146"/>
+        <topscorer goals="1" participantid="10194" participantname="Stoke" player=" Tuncay" playerid="42183" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Mark Davies" playerid="155384" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Robbie Blake" playerid="23074" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="James Milner" playerid="38807" rank="146"/>
+        <topscorer goals="1" participantid="10260" participantname="Manchester United" player="Fabio da Silva" playerid="150176" rank="146"/>
+        <topscorer goals="1" participantid="8472" participantname="Sunderland" player="Jordan Henderson" playerid="156008" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Elliot Grandin" playerid="46344" rank="146"/>
+        <topscorer goals="1" participantid="10252" participantname="Aston Villa" player="Kyle Walker" playerid="159833" rank="146"/>
+        <topscorer goals="1" participantid="8654" participantname="West Ham" player="Junior Stanislas" playerid="160496" rank="146"/>
+        <topscorer goals="1" participantid="10252" participantname="Aston Villa" player="Stiliyan Petrov" playerid="38609" rank="146"/>
+        <topscorer goals="1" participantid="10260" participantname="Manchester United" player="Federico Macheda" playerid="165709" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player=" Rodrigo" playerid="193869" rank="146"/>
+        <topscorer goals="1" participantid="10252" participantname="Aston Villa" player="Nathan Delfouneso" playerid="139672" rank="146"/>
+        <topscorer goals="1" participantid="10194" participantname="Stoke" player="Abdoulaye Faye" playerid="40005" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Craig Cathcart" playerid="40548" rank="146"/>
+        <topscorer goals="1" participantid="8650" participantname="Liverpool" player="Luiz Suarez" playerid="40636" rank="146"/>
+        <topscorer goals="1" participantid="8528" participantname="Wigan" player="Antolin Alcaraz" playerid="11736" rank="146"/>
+        <topscorer goals="1" participantid="8528" participantname="Wigan" player="Victor Moses" playerid="106228" rank="146"/>
+        <topscorer goals="1" participantid="8650" participantname="Liverpool" player="Martin Skrtel" playerid="22764" rank="146"/>
+        <topscorer goals="1" participantid="8455" participantname="Chelsea" player=" Ramires" playerid="79574" rank="146"/>
+        <topscorer goals="1" participantid="8658" participantname="Birmingham" player="Keith Fahey" playerid="77704" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Aleksandar Kolarov" playerid="16351" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Zatyiah Knight" playerid="40128" rank="146"/>
+        <topscorer goals="1" participantid="8655" participantname="Blackburn" player="Steven N´Zonzi" playerid="109621" rank="146"/>
+        <topscorer goals="1" participantid="8654" participantname="West Ham" player="James Tomkins" playerid="109897" rank="146"/>
+        <topscorer goals="1" participantid="8668" participantname="Everton" player="Marouane Fellaini" playerid="39618" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Matthew Phillips" playerid="127133" rank="146"/>
+        <topscorer goals="1" participantid="8528" participantname="Wigan" player="Jordi Gomez" playerid="118929" rank="146"/>
+        <topscorer goals="1" participantid="8654" participantname="West Ham" player="Freddie Sears" playerid="118390" rank="146"/>
+        <topscorer goals="1" participantid="8668" participantname="Everton" player="Diniyar Bilyaletdinov" playerid="10491" rank="146"/>
+        <topscorer goals="1" participantid="8659" participantname="West Bromwich" player="Gonzalo Jara" playerid="49885" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="Ronald Zubar" playerid="40022" rank="146"/>
+        <topscorer goals="1" participantid="8655" participantname="Blackburn" player="David Hoilett" playerid="113465" rank="146"/>
+        <topscorer goals="1" participantid="10261" participantname="Newcastle" player="Cheik Tioté" playerid="38373" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Michael Dawson" playerid="24531" rank="146"/>
+        <topscorer goals="1" participantid="10194" participantname="Stoke" player="John Carew" playerid="26165" rank="146"/>
+        <topscorer goals="1" participantid="8658" participantname="Birmingham" player="Aleksandr Hleb" playerid="26169" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Sébastien Bassong" playerid="26209" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Gretar Rafn Steinsson" playerid="26454" rank="146"/>
+        <topscorer goals="1" participantid="8659" participantname="West Bromwich" player="Jonas Olsson" playerid="26527" rank="146"/>
+        <topscorer goals="1" participantid="8455" participantname="Chelsea" player="Rodrigo Alex" playerid="26564" rank="146"/>
+        <topscorer goals="1" participantid="8528" participantname="Wigan" player="Ronnie Stam" playerid="26631" rank="146"/>
+        <topscorer goals="1" participantid="9825" participantname="Arsenal" player="Abou Diaby" playerid="27277" rank="146"/>
+        <topscorer goals="1" participantid="8668" participantname="Everton" player="Aiyegbeni Yakubu" playerid="24160" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Neal Eardley" playerid="29571" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Matthew Taylor" playerid="24372" rank="146"/>
+        <topscorer goals="1" participantid="10252" participantname="Aston Villa" player="Luke Young" playerid="30357" rank="146"/>
+        <topscorer goals="1" participantid="10261" participantname="Newcastle" player="Hatem Ben Arfa" playerid="26163" rank="146"/>
+        <topscorer goals="1" participantid="9825" participantname="Arsenal" player="Bacary Sagna" playerid="26111" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Younes Kaboul" playerid="26108" rank="146"/>
+        <topscorer goals="1" participantid="8654" participantname="West Ham" player="Robbie Keane" playerid="24635" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Tom Huddlestone" playerid="24656" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="David Edwards" playerid="24676" rank="146"/>
+        <topscorer goals="1" participantid="9879" participantname="Fulham" player="Zoltan Gera" playerid="24737" rank="146"/>
+        <topscorer goals="1" participantid="9879" participantname="Fulham" player="Bobby Zamora" playerid="24741" rank="146"/>
+        <topscorer goals="1" participantid="8455" participantname="Chelsea" player="Yossi Benayoun" playerid="24800" rank="146"/>
+        <topscorer goals="1" participantid="9879" participantname="Fulham" player="Dickson Etuhu" playerid="25253" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="David Jones" playerid="25415" rank="146"/>
+        <topscorer goals="1" participantid="8668" participantname="Everton" player="Sylvain Distin" playerid="24216" rank="146"/>
+        <topscorer goals="1" participantid="8655" participantname="Blackburn" player="Martin Olsson" playerid="25667" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Micah Richards" playerid="24208" rank="146"/>
+        <topscorer goals="1" participantid="8528" participantname="Wigan" player="Steve Gohouri" playerid="25948" rank="146"/>
+        <topscorer goals="1" participantid="10260" participantname="Manchester United" player="Paul Scholes" playerid="30373" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Pablo Zabaleta" playerid="30509" rank="146"/>
+        <topscorer goals="1" participantid="10260" participantname="Manchester United" player="Michael Owen" playerid="30619" rank="146"/>
+        <topscorer goals="1" participantid="8654" participantname="West Ham" player="Jonathan Spector" playerid="33312" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="Jelle van Damme" playerid="33620" rank="146"/>
+        <topscorer goals="1" participantid="9825" participantname="Arsenal" player="Sebastien Squillaci" playerid="33812" rank="146"/>
+        <topscorer goals="1" participantid="10261" participantname="Newcastle" player="Jonas Gutiérrez" playerid="33852" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="George Elokobi" playerid="23435" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Brett Ormerod" playerid="23299" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Patrick Vieira" playerid="34942" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Jason Puncheon" playerid="35345" rank="146"/>
+        <topscorer goals="1" participantid="8658" participantname="Birmingham" player="Sebastian Larsson" playerid="35443" rank="146"/>
+        <topscorer goals="1" participantid="10194" participantname="Stoke" player="Danny Higginbotham" playerid="35467" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Fabrice Muamba" playerid="35532" rank="146"/>
+        <topscorer goals="1" participantid="8483" participantname="Blackpool" player="Ian Evatt" playerid="35554" rank="146"/>
+        <topscorer goals="1" participantid="8602" participantname="Wolverhampton" player="Stephen Ward" playerid="33138" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Joleon Lescott" playerid="33086" rank="146"/>
+        <topscorer goals="1" participantid="8472" participantname="Sunderland" player="Nedum Onuoha" playerid="24209" rank="146"/>
+        <topscorer goals="1" participantid="8650" participantname="Liverpool" player="Joe Cole" playerid="30630" rank="146"/>
+        <topscorer goals="1" participantid="8655" participantname="Blackburn" player="Gael Givet" playerid="30739" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Kolo Touré" playerid="30831" rank="146"/>
+        <topscorer goals="1" participantid="8659" participantname="West Bromwich" player="Pablo Ibanez" playerid="30903" rank="146"/>
+        <topscorer goals="1" participantid="8650" participantname="Liverpool" player="Ryan Babel" playerid="30915" rank="146"/>
+        <topscorer goals="1" participantid="8456" participantname="Manchester City" player="Emmanuel Adebayor" playerid="30960" rank="146"/>
+        <topscorer goals="1" participantid="9825" participantname="Arsenal" player="Johan Djourou" playerid="30986" rank="146"/>
+        <topscorer goals="1" participantid="8559" participantname="Bolton" player="Gary Cahill" playerid="23783" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Luka Modric" playerid="31097" rank="146"/>
+        <topscorer goals="1" participantid="9879" participantname="Fulham" player="Aaron Hughes" playerid="23780" rank="146"/>
+        <topscorer goals="1" participantid="10260" participantname="Manchester United" player="Patrice Evra" playerid="32569" rank="146"/>
+        <topscorer goals="1" participantid="8659" participantname="West Bromwich" player="Graham Dorrans" playerid="32734" rank="146"/>
+        <topscorer goals="1" participantid="8586" participantname="Tottenham" player="Steven Pienaar" playerid="36012" rank="146"/>
+    </topscorers>
+    <topscorers id="821290" league="LIGA BBVA" sport="Football" template="Spain LIGA BBVA" tournament="2010/2011" ut="2011-03-01">
+        <topscorer goals="26" participantid="8634" participantname="Barcelona" player="Lionel Messi" playerid="30981" rank="1"/>
+        <topscorer goals="24" participantid="8633" participantname="Real Madrid" player="Cristiano Ronaldo" playerid="30893" rank="2"/>
+        <topscorer goals="17" participantid="8634" participantname="Barcelona" player="David Villa" playerid="30909" rank="3"/>
+        <topscorer goals="14" participantid="8315" participantname="Athletic Bilbao" player="Fernando Llorente" playerid="33030" rank="4"/>
+        <topscorer goals="13" participantid="8634" participantname="Barcelona" player="Pedro Rodriguez" playerid="150250" rank="5"/>
+        <topscorer goals="12" participantid="10205" participantname="Villarreal" player="Giuseppe Rossi" playerid="38699" rank="6"/>
+        <topscorer goals="10" participantid="10278" participantname="Hercules" player="David Trezeguet" playerid="30728" rank="7"/>
+        <topscorer goals="10" participantid="8581" participantname="Levante" player="Felipe Caicedo" playerid="41622" rank="7"/>
+        <topscorer goals="10" participantid="10205" participantname="Villarreal" player=" Nilmar" playerid="25986" rank="7"/>
+        <topscorer goals="9" participantid="9864" participantname="Malaga" player="Salomon Rondon" playerid="51545" rank="10"/>
+        <topscorer goals="9" participantid="8302" participantname="Sevilla" player="Alvaro Negredo" playerid="75310" rank="10"/>
+        <topscorer goals="9" participantid="10267" participantname="Valencia" player="Aritz Aduriz" playerid="33028" rank="10"/>
+        <topscorer goals="9" participantid="8302" participantname="Sevilla" player="Luis Fabiano" playerid="34106" rank="10"/>
+        <topscorer goals="8" participantid="9869" participantname="Gijon" player="Diego Castro" playerid="24383" rank="14"/>
+        <topscorer goals="8" participantid="8302" participantname="Sevilla" player="Frédéric Kanouté" playerid="33989" rank="14"/>
+        <topscorer goals="8" participantid="9906" participantname="Atletico Madrid" player="Sergio Agüero" playerid="37412" rank="14"/>
+        <topscorer goals="7" participantid="9865" participantname="Almeria" player="Jose Leonardo Ulloa" playerid="26554" rank="17"/>
+        <topscorer goals="7" participantid="8558" participantname="Espanyol" player="Pablo Daniel Osvaldo" playerid="40165" rank="17"/>
+        <topscorer goals="7" participantid="8633" participantname="Real Madrid" player="Gonzalo Higuain" playerid="25759" rank="17"/>
+        <topscorer goals="7" participantid="8634" participantname="Barcelona" player="Andrés Iniesta" playerid="30955" rank="17"/>
+        <topscorer goals="7" participantid="9906" participantname="Atletico Madrid" player="Diego Forlan" playerid="38460" rank="17"/>
+        <topscorer goals="7" participantid="8305" participantname="Getafe" player="Adrian Colunga" playerid="102572" rank="17"/>
+        <topscorer goals="7" participantid="10278" participantname="Hercules" player="Nelson Haedo Valdez" playerid="31718" rank="17"/>
+        <topscorer goals="6" participantid="8558" participantname="Espanyol" player="Jose Maria Callejon" playerid="150330" rank="24"/>
+        <topscorer goals="6" participantid="8560" participantname="Real Sociedad" player="Raul Tamudo" playerid="32764" rank="24"/>
+        <topscorer goals="6" participantid="8558" participantname="Espanyol" player="Luis Garcia" playerid="24852" rank="24"/>
+        <topscorer goals="6" participantid="10267" participantname="Valencia" player="Roberto Soldado" playerid="37506" rank="24"/>
+        <topscorer goals="6" participantid="9865" participantname="Almeria" player="Pablo Piatti" playerid="46384" rank="24"/>
+        <topscorer goals="6" participantid="8560" participantname="Real Sociedad" player="Xabier Prieto" playerid="33973" rank="24"/>
+        <topscorer goals="6" participantid="8305" participantname="Getafe" player=" Miku" playerid="150770" rank="24"/>
+        <topscorer goals="5" participantid="8560" participantname="Real Sociedad" player="Joseba Llorente" playerid="38551" rank="31"/>
+        <topscorer goals="5" participantid="8696" participantname="Racing Santander" player="Markus Rosenberg" playerid="30827" rank="31"/>
+        <topscorer goals="5" participantid="8633" participantname="Real Madrid" player="Angel Di Maria" playerid="46509" rank="31"/>
+        <topscorer goals="5" participantid="8661" participantname="Mallorca" player="Michael Pereira" playerid="200630" rank="31"/>
+        <topscorer goals="5" participantid="8315" participantname="Athletic Bilbao" player="Igor Gabilondo" playerid="37408" rank="31"/>
+        <topscorer goals="5" participantid="8661" participantname="Mallorca" player="Gonzalo Castro" playerid="56686" rank="31"/>
+        <topscorer goals="5" participantid="8661" participantname="Mallorca" player="Pierre Webo" playerid="25574" rank="31"/>
+        <topscorer goals="5" participantid="10267" participantname="Valencia" player="Juan M. Mata" playerid="41468" rank="31"/>
+        <topscorer goals="5" participantid="9865" participantname="Almeria" player="Kalu Uche" playerid="43329" rank="31"/>
+        <topscorer goals="5" participantid="10205" participantname="Villarreal" player="Santiago Cazorla" playerid="37436" rank="31"/>
+        <topscorer goals="5" participantid="8633" participantname="Real Madrid" player="Mesut Özil" playerid="36378" rank="31"/>
+        <topscorer goals="4" participantid="10205" participantname="Villarreal" player="Marcos Ruben" playerid="18628" rank="42"/>
+        <topscorer goals="4" participantid="8394" participantname="Zaragoza" player="Florent Sinama-Pongolle" playerid="38700" rank="42"/>
+        <topscorer goals="4" participantid="8394" participantname="Zaragoza" player=" Gabi Fernández" playerid="33635" rank="42"/>
+        <topscorer goals="4" participantid="10267" participantname="Valencia" player="Tino Costa" playerid="134236" rank="42"/>
+        <topscorer goals="4" participantid="8371" participantname="Osasuna" player="Javad Nekounam" playerid="42369" rank="42"/>
+        <topscorer goals="4" participantid="8315" participantname="Athletic Bilbao" player="Javier Martinez" playerid="37410" rank="42"/>
+        <topscorer goals="4" participantid="9906" participantname="Atletico Madrid" player=" Simao" playerid="30663" rank="42"/>
+        <topscorer goals="4" participantid="8394" participantname="Zaragoza" player="Nicolas Bertolo" playerid="45457" rank="42"/>
+        <topscorer goals="4" participantid="9783" participantname="Deportivo La Coruna" player=" Adrian" playerid="45744" rank="42"/>
+        <topscorer goals="4" participantid="9864" participantname="Malaga" player="Juan Miguel Juanmi Lopez" playerid="191873" rank="42"/>
+        <topscorer goals="4" participantid="8560" participantname="Real Sociedad" player="Mikel Eizaguirre Aranburu" playerid="33997" rank="42"/>
+        <topscorer goals="4" participantid="10267" participantname="Valencia" player=" Joaquin" playerid="37824" rank="42"/>
+        <topscorer goals="4" participantid="8371" participantname="Osasuna" player="Carlos Reina Aranda" playerid="38136" rank="42"/>
+        <topscorer goals="4" participantid="8581" participantname="Levante" player="Cristian Stuani" playerid="58294" rank="42"/>
+        <topscorer goals="4" participantid="9906" participantname="Atletico Madrid" player=" Tiago" playerid="30871" rank="42"/>
+        <topscorer goals="4" participantid="8305" participantname="Getafe" player=" Manu Del Moral" playerid="37474" rank="42"/>
+        <topscorer goals="4" participantid="8560" participantname="Real Sociedad" player="Antoine Griezmann" playerid="184138" rank="42"/>
+        <topscorer goals="4" participantid="8305" participantname="Getafe" player="Pedro Rios" playerid="75619" rank="42"/>
+        <topscorer goals="4" participantid="9906" participantname="Atletico Madrid" player="Jose Antonio Reyes" playerid="38821" rank="42"/>
+        <topscorer goals="3" participantid="10205" participantname="Villarreal" player="Borja Valero" playerid="38433" rank="61"/>
+        <topscorer goals="3" participantid="8661" participantname="Mallorca" player="Emilio Nsue" playerid="103904" rank="61"/>
+        <topscorer goals="3" participantid="8394" participantname="Zaragoza" player=" Braulio" playerid="38379" rank="61"/>
+        <topscorer goals="3" participantid="8558" participantname="Espanyol" player="Joan Verdu" playerid="37441" rank="61"/>
+        <topscorer goals="3" participantid="8634" participantname="Barcelona" player="Bojan Krkic" playerid="96643" rank="61"/>
+        <topscorer goals="3" participantid="8315" participantname="Athletic Bilbao" player="David Lopez" playerid="33866" rank="61"/>
+        <topscorer goals="3" participantid="10205" participantname="Villarreal" player="Rubén Gracia Cani" playerid="37480" rank="61"/>
+        <topscorer goals="3" participantid="8558" participantname="Espanyol" player="Sergio Garcia" playerid="38578" rank="61"/>
+        <topscorer goals="3" participantid="8633" participantname="Real Madrid" player="Karim Benzema" playerid="26166" rank="61"/>
+        <topscorer goals="3" participantid="9864" participantname="Malaga" player="Sebastian Fernandez" playerid="56819" rank="61"/>
+        <topscorer goals="3" participantid="8634" participantname="Barcelona" player="Xavi Hernandez" playerid="39854" rank="61"/>
+        <topscorer goals="3" participantid="8371" participantname="Osasuna" player="Walter Pandiani" playerid="23853" rank="61"/>
+        <topscorer goals="3" participantid="9783" participantname="Deportivo La Coruna" player="Nouioui Lassad" playerid="164712" rank="61"/>
+        <topscorer goals="3" participantid="8315" participantname="Athletic Bilbao" player="Andoni Iraola" playerid="33025" rank="61"/>
+        <topscorer goals="3" participantid="10267" participantname="Valencia" player="Pablo Hernandez" playerid="2802" rank="61"/>
+        <topscorer goals="3" participantid="9906" participantname="Atletico Madrid" player=" Diego Costa" playerid="19243" rank="61"/>
+        <topscorer goals="3" participantid="8305" participantname="Getafe" player="Daniel Parejo" playerid="75307" rank="61"/>
+        <topscorer goals="3" participantid="9869" participantname="Gijon" player="David Barral" playerid="41294" rank="61"/>
+        <topscorer goals="3" participantid="8558" participantname="Espanyol" player="Alvaro Vazquez" playerid="213489" rank="61"/>
+        <topscorer goals="3" participantid="8696" participantname="Racing Santander" player="Gerardo Osten Ariel Nahuelpan" playerid="149584" rank="61"/>
+        <topscorer goals="3" participantid="8315" participantname="Athletic Bilbao" player="Gaizka Toquero" playerid="150832" rank="61"/>
+        <topscorer goals="3" participantid="9864" participantname="Malaga" player=" Eliseu" playerid="11758" rank="61"/>
+        <topscorer goals="3" participantid="8633" participantname="Real Madrid" player="Ricardo Carvalho" playerid="30911" rank="61"/>
+        <topscorer goals="2" participantid="10278" participantname="Hercules" player="Royston Drenthe" playerid="42714" rank="84"/>
+        <topscorer goals="2" participantid="8305" participantname="Getafe" player="Jaime Gavilan" playerid="37461" rank="84"/>
+        <topscorer goals="2" participantid="9783" participantname="Deportivo La Coruna" player="Alberto Lopo" playerid="37451" rank="84"/>
+        <topscorer goals="2" participantid="8305" participantname="Getafe" player="Juan Albin" playerid="37469" rank="84"/>
+        <topscorer goals="2" participantid="9783" participantname="Deportivo La Coruna" player="Diego Daniel Colotto" playerid="70891" rank="84"/>
+        <topscorer goals="2" participantid="8302" participantname="Sevilla" player="Abdoulay Konko" playerid="39562" rank="84"/>
+        <topscorer goals="2" participantid="8558" participantname="Espanyol" player="Javi Moreno Marquez" playerid="80492" rank="84"/>
+        <topscorer goals="2" participantid="8371" participantname="Osasuna" player="Javier Gallego Camunas" playerid="75474" rank="84"/>
+        <topscorer goals="2" participantid="9864" participantname="Malaga" player="Julio Baptista" playerid="38822" rank="84"/>
+        <topscorer goals="2" participantid="8371" participantname="Osasuna" player=" Lolo" playerid="38151" rank="84"/>
+        <topscorer goals="2" participantid="8302" participantname="Sevilla" player="Alejandro Alfaro" playerid="38131" rank="84"/>
+        <topscorer goals="2" participantid="9783" participantname="Deportivo La Coruna" player="Artiles Oliva Aythami" playerid="74989" rank="84"/>
+        <topscorer goals="2" participantid="8581" participantname="Levante" player=" Rubén Suarez" playerid="74734" rank="84"/>
+        <topscorer goals="2" participantid="8661" participantname="Mallorca" player="Fernando Cavenaghi" playerid="40710" rank="84"/>
+        <topscorer goals="2" participantid="8633" participantname="Real Madrid" player=" Kaka" playerid="41044" rank="84"/>
+        <topscorer goals="2" participantid="9864" participantname="Malaga" player=" Duda" playerid="37450" rank="84"/>
+        <topscorer goals="2" participantid="10205" participantname="Villarreal" player="Joan Capdevila" playerid="40599" rank="84"/>
+        <topscorer goals="2" participantid="8302" participantname="Sevilla" player="Ivan Rakitic" playerid="25773" rank="84"/>
+        <topscorer goals="2" participantid="8371" participantname="Osasuna" player="Miguel Flano" playerid="33865" rank="84"/>
+        <topscorer goals="2" participantid="8371" participantname="Osasuna" player="Krisztian Vadocz" playerid="26044" rank="84"/>
+        <topscorer goals="2" participantid="8305" participantname="Getafe" player="Angel Javier Arizmendi" playerid="33762" rank="84"/>
+        <topscorer goals="2" participantid="9864" participantname="Malaga" player=" Fernando" playerid="24612" rank="84"/>
+        <topscorer goals="2" participantid="8315" participantname="Athletic Bilbao" player="Carlos Gurpegi" playerid="33024" rank="84"/>
+        <topscorer goals="2" participantid="9869" participantname="Gijon" player="Nacho Novo" playerid="32865" rank="84"/>
+        <topscorer goals="2" participantid="9783" participantname="Deportivo La Coruna" player="Andres Guardado" playerid="31045" rank="84"/>
+        <topscorer goals="2" participantid="8394" participantname="Zaragoza" player="Said Boutahar" playerid="26519" rank="84"/>
+        <topscorer goals="2" participantid="8315" participantname="Athletic Bilbao" player="Mikel San José" playerid="182224" rank="84"/>
+        <topscorer goals="2" participantid="8371" participantname="Osasuna" player="Masoud Shojaei" playerid="30744" rank="84"/>
+        <topscorer goals="2" participantid="8315" participantname="Athletic Bilbao" player="Iker Muniain" playerid="179772" rank="84"/>
+        <topscorer goals="2" participantid="8696" participantname="Racing Santander" player="Christian Fernandez Salas" playerid="167070" rank="84"/>
+        <topscorer goals="2" participantid="8661" participantname="Mallorca" player=" Victor" playerid="25462" rank="84"/>
+        <topscorer goals="2" participantid="8581" participantname="Levante" player="Rocha Lopes Valdo" playerid="33872" rank="84"/>
+        <topscorer goals="2" participantid="8581" participantname="Levante" player=" Sergio" playerid="30271" rank="84"/>
+        <topscorer goals="2" participantid="9864" participantname="Malaga" player="Antonio Apono" playerid="102612" rank="84"/>
+        <topscorer goals="2" participantid="8560" participantname="Real Sociedad" player="Diego Rivas" playerid="37416" rank="84"/>
+        <topscorer goals="2" participantid="8558" participantname="Espanyol" player="Jesus Datolo" playerid="18705" rank="84"/>
+        <topscorer goals="2" participantid="9783" participantname="Deportivo La Coruna" player="Ivan Sanchez Riki" playerid="37446" rank="84"/>
+        <topscorer goals="2" participantid="8302" participantname="Sevilla" player="Julien Escudé" playerid="33990" rank="84"/>
+        <topscorer goals="2" participantid="9869" participantname="Gijon" player="Gaston Sangoy" playerid="106600" rank="84"/>
+        <topscorer goals="2" participantid="9864" participantname="Malaga" player="Quincy Owusu-Abeyie" playerid="23779" rank="84"/>
+        <topscorer goals="2" participantid="8696" participantname="Racing Santander" player="Pablo Pinillos" playerid="33896" rank="84"/>
+        <topscorer goals="2" participantid="8661" participantname="Mallorca" player="Jonathan De Guzman" playerid="24123" rank="84"/>
+        <topscorer goals="2" participantid="8305" participantname="Getafe" player="Derek Boateng" playerid="34381" rank="84"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Sofiane Feghouli" playerid="93480" rank="127"/>
+        <topscorer goals="1" participantid="8371" participantname="Osasuna" player="Dejan Lekic" playerid="179009" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Carlos Garcia" playerid="74404" rank="127"/>
+        <topscorer goals="1" participantid="10205" participantname="Villarreal" player="Jose Manuel Catala" playerid="183179" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Nacho Cases" playerid="242477" rank="127"/>
+        <topscorer goals="1" participantid="9864" participantname="Malaga" player="Jose Recio" playerid="238841" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Jefferson Antonio Montero Vite" playerid="52563" rank="127"/>
+        <topscorer goals="1" participantid="10205" participantname="Villarreal" player="Gaspar Perez Mario" playerid="183185" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="Jorge Resurrecion Koke" playerid="184533" rank="127"/>
+        <topscorer goals="1" participantid="8315" participantname="Athletic Bilbao" player="Soto Inigo Perez" playerid="188060" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="Dani Estrada" playerid="56846" rank="127"/>
+        <topscorer goals="1" participantid="10278" participantname="Hercules" player=" Kiko" playerid="175311" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="Ever Banega" playerid="108568" rank="127"/>
+        <topscorer goals="1" participantid="8302" participantname="Sevilla" player="Martin Caceres" playerid="96616" rank="127"/>
+        <topscorer goals="1" participantid="8305" participantname="Getafe" player="Victor Sanchez Mata" playerid="107930" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Alberto Botia" playerid="107929" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Ivan Bolado" playerid="97234" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Manuel Arana" playerid="97319" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Amorim Gregory" playerid="101070" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="David Zurutuza" playerid="99047" rank="127"/>
+        <topscorer goals="1" participantid="8302" participantname="Sevilla" player="Federico Fazio" playerid="95509" rank="127"/>
+        <topscorer goals="1" participantid="9783" participantname="Deportivo La Coruna" player="Laureano Sanabria Ruiz" playerid="111190" rank="127"/>
+        <topscorer goals="1" participantid="8305" participantname="Getafe" player="Ivan Marcano" playerid="80497" rank="127"/>
+        <topscorer goals="1" participantid="8394" participantname="Zaragoza" player="Ander Herrera" playerid="164676" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player=" Rafa Jorda" playerid="75214" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Jeffren Suarez" playerid="154259" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Sergio Busquets" playerid="154257" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="Francisco Sutil" playerid="150831" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Adriano Buss Henrique" playerid="128037" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="Alvaro Dominguez" playerid="114044" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Hernan Dario Bernardello" playerid="113627" rank="127"/>
+        <topscorer goals="1" participantid="8302" participantname="Sevilla" player="Diego Perotti" playerid="101422" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Fabián Vargas" playerid="6853" rank="127"/>
+        <topscorer goals="1" participantid="10205" participantname="Villarreal" player="Marcos Senna" playerid="30958" rank="127"/>
+        <topscorer goals="1" participantid="8633" participantname="Real Madrid" player="Emmanuel Adebayor" playerid="30960" rank="127"/>
+        <topscorer goals="1" participantid="8633" participantname="Real Madrid" player="Sergio Ramos" playerid="30962" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="Hedwiges Maduro" playerid="30994" rank="127"/>
+        <topscorer goals="1" participantid="8394" participantname="Zaragoza" player="Jose Gomes de Moraes Edmilson" playerid="32043" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player=" Vicente" playerid="32762" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Mehdi Lacen" playerid="32999" rank="127"/>
+        <topscorer goals="1" participantid="9783" participantname="Deportivo La Coruna" player="Daniel Aranzubia" playerid="33018" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="Juan Valera" playerid="33634" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Francisco Munoz Xisco" playerid="33668" rank="127"/>
+        <topscorer goals="1" participantid="10278" participantname="Hercules" player="Abraham Paz Cruz" playerid="33715" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Sergio Ballesteros" playerid="33847" rank="127"/>
+        <topscorer goals="1" participantid="8661" participantname="Mallorca" player="Ivan Ramis" playerid="33856" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Carles Puyol" playerid="30661" rank="127"/>
+        <topscorer goals="1" participantid="9864" participantname="Malaga" player="Martin Demichelis" playerid="30459" rank="127"/>
+        <topscorer goals="1" participantid="8302" participantname="Sevilla" player=" Renato" playerid="30443" rank="127"/>
+        <topscorer goals="1" participantid="8394" participantname="Zaragoza" player="Marco Perez" playerid="8780" rank="127"/>
+        <topscorer goals="1" participantid="8371" participantname="Osasuna" player="Fernando Soriano" playerid="11555" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Marcelo Andres Silva Fernandez" playerid="20325" rank="127"/>
+        <topscorer goals="1" participantid="8633" participantname="Real Madrid" player=" Pepe" playerid="25921" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="Jeffrey Sarpong" playerid="26010" rank="127"/>
+        <topscorer goals="1" participantid="10278" participantname="Hercules" player="Olivier Thomert" playerid="26145" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Seydou Keita" playerid="26146" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="Jérémy Mathieu" playerid="26403" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Kennedy Bakircioglu" playerid="26535" rank="127"/>
+        <topscorer goals="1" participantid="9864" participantname="Malaga" player="Kris Stadsgaard" playerid="26805" rank="127"/>
+        <topscorer goals="1" participantid="8394" participantname="Zaragoza" player="Maurizio Lanzaro" playerid="27678" rank="127"/>
+        <topscorer goals="1" participantid="8633" participantname="Real Madrid" player=" Marcelo" playerid="28467" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="David Navarro" playerid="30276" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="Raul Garcia" playerid="33871" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Oscar Serrano" playerid="33892" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="Ion Ansotegui" playerid="33959" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="M. A. Perez Corona" playerid="38581" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Sebastian Eguren" playerid="38746" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Angel De Las Cuevas Miguel" playerid="38886" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player=" Jonas" playerid="39122" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="Mehmet Topal" playerid="39782" rank="127"/>
+        <topscorer goals="1" participantid="9864" participantname="Malaga" player="Enzo Maresca" playerid="34000" rank="127"/>
+        <topscorer goals="1" participantid="9869" participantname="Gijon" player="Andre Castro" playerid="40956" rank="127"/>
+        <topscorer goals="1" participantid="8633" participantname="Real Madrid" player="Estaban Granero" playerid="41156" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Giovani dos Santos" playerid="41157" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Juan Luis Gomez Lopez Juanlu" playerid="41255" rank="127"/>
+        <topscorer goals="1" participantid="10267" participantname="Valencia" player="Marius Stankevicius" playerid="41667" rank="127"/>
+        <topscorer goals="1" participantid="9864" participantname="Malaga" player="Robson Weligton" playerid="41707" rank="127"/>
+        <topscorer goals="1" participantid="9865" participantname="Almeria" player="Albert Crusat" playerid="45605" rank="127"/>
+        <topscorer goals="1" participantid="8394" participantname="Zaragoza" player="Angel Lafita" playerid="38573" rank="127"/>
+        <topscorer goals="1" participantid="8371" participantname="Osasuna" player="Nacho Monreal" playerid="38521" rank="127"/>
+        <topscorer goals="1" participantid="8371" participantname="Osasuna" player="Javier Calleja" playerid="38479" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Daniel Alves" playerid="33988" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Asier del Horno" playerid="34575" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Pedro Munitis" playerid="35638" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="José Manuel Jurado" playerid="37411" rank="127"/>
+        <topscorer goals="1" participantid="9783" participantname="Deportivo La Coruna" player="Pablo Alvarez" playerid="37447" rank="127"/>
+        <topscorer goals="1" participantid="9783" participantname="Deportivo La Coruna" player="Juan Rodriguez" playerid="37449" rank="127"/>
+        <topscorer goals="1" participantid="8634" participantname="Barcelona" player="Gerard Piqué" playerid="37482" rank="127"/>
+        <topscorer goals="1" participantid="10278" participantname="Hercules" player="Jorge Tote" playerid="37665" rank="127"/>
+        <topscorer goals="1" participantid="8581" participantname="Levante" player="Victoriano Rivas Nano" playerid="37672" rank="127"/>
+        <topscorer goals="1" participantid="8696" participantname="Racing Santander" player="Marc Torrejon Moya" playerid="37879" rank="127"/>
+        <topscorer goals="1" participantid="9906" participantname="Atletico Madrid" player="Francisco Torres Belén Juanfran" playerid="38424" rank="127"/>
+        <topscorer goals="1" participantid="10205" participantname="Villarreal" player="Javier Gonzalo Rodriguez" playerid="38458" rank="127"/>
+        <topscorer goals="1" participantid="10278" participantname="Hercules" player="Francisco Farinos" playerid="38475" rank="127"/>
+        <topscorer goals="1" participantid="8560" participantname="Real Sociedad" player="Imanol Agirretxe" playerid="46289" rank="127"/>
+    </topscorers>
+</spocosy>

@@ -1,0 +1,1477 @@
+<?xml version="1.0" ?>
+<spocosy version="1.0">
+    <fixtures id="820745" league="Premier League" sport="Football" template="England Premier League" tournament="2010/2011" ut="2011-03-01">
+        <fixture date="2011-03-01 20:45:00" id="839993" name="Chelsea-Manchester United" round="18" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 13:45:00" id="840142" name="Birmingham-West Bromwich" round="29" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="8659" participantname="West Bromwich"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 16:00:00" id="840143" name="Bolton-Aston Villa" round="29" status="Not started">
+            <participants>
+                <participant participantid="8559" participantname="Bolton"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 16:00:00" id="840141" name="Fulham-Blackburn" round="29" status="Not started">
+            <participants>
+                <participant participantid="9879" participantname="Fulham"/>
+                <participant participantid="8655" participantname="Blackburn"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 16:00:00" id="840135" name="Arsenal-Sunderland" round="29" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="8472" participantname="Sunderland"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 16:00:00" id="840138" name="Newcastle-Everton" round="29" status="Not started">
+            <participants>
+                <participant participantid="10261" participantname="Newcastle"/>
+                <participant participantid="8668" participantname="Everton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 16:00:00" id="840137" name="West Ham-Stoke" round="29" status="Not started">
+            <participants>
+                <participant participantid="8654" participantname="West Ham"/>
+                <participant participantid="10194" participantname="Stoke"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 18:30:00" id="840139" name="Manchester City-Wigan" round="29" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 14:30:00" id="840136" name="Liverpool-Manchester United" round="29" status="Not started">
+            <participants>
+                <participant participantid="8650" participantname="Liverpool"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 17:00:00" id="840140" name="Wolverhampton-Tottenham" round="29" status="Not started">
+            <participants>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+                <participant participantid="8586" participantname="Tottenham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-07 21:00:00" id="840144" name="Blackpool-Chelsea" round="29" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="8455" participantname="Chelsea"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-09 21:00:00" id="839997" name="Everton-Birmingham" round="19" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 13:45:00" id="840147" name="Tottenham-West Ham" round="30" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840153" name="Wigan-Birmingham" round="30" status="Not started">
+            <participants>
+                <participant participantid="8528" participantname="Wigan"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840152" name="Stoke-Newcastle" round="30" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="10261" participantname="Newcastle"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840150" name="Blackburn-Blackpool" round="30" status="Not started">
+            <participants>
+                <participant participantid="8655" participantname="Blackburn"/>
+                <participant participantid="8483" participantname="Blackpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840148" name="Aston Villa-Wolverhampton" round="30" status="Not started">
+            <participants>
+                <participant participantid="10252" participantname="Aston Villa"/>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840151" name="West Bromwich-Arsenal" round="30" status="Not started">
+            <participants>
+                <participant participantid="8659" participantname="West Bromwich"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 16:00:00" id="840145" name="Manchester United-Bolton" round="30" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-19 18:30:00" id="840149" name="Everton-Fulham" round="30" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="9879" participantname="Fulham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 14:30:00" id="840146" name="Sunderland-Liverpool" round="30" status="Not started">
+            <participants>
+                <participant participantid="8472" participantname="Sunderland"/>
+                <participant participantid="8650" participantname="Liverpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 17:00:00" id="840154" name="Chelsea-Manchester City" round="30" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="8456" participantname="Manchester City"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 13:45:00" id="840156" name="West Ham-Manchester United" round="31" status="Not started">
+            <participants>
+                <participant participantid="8654" participantname="West Ham"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840161" name="Birmingham-Bolton" round="31" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840162" name="West Bromwich-Liverpool" round="31" status="Not started">
+            <participants>
+                <participant participantid="8659" participantname="West Bromwich"/>
+                <participant participantid="8650" participantname="Liverpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840163" name="Stoke-Chelsea" round="31" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="8455" participantname="Chelsea"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840164" name="Wigan-Tottenham" round="31" status="Not started">
+            <participants>
+                <participant participantid="8528" participantname="Wigan"/>
+                <participant participantid="8586" participantname="Tottenham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840158" name="Newcastle-Wolverhampton" round="31" status="Not started">
+            <participants>
+                <participant participantid="10261" participantname="Newcastle"/>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 16:00:00" id="840157" name="Everton-Aston Villa" round="31" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-02 18:30:00" id="840155" name="Arsenal-Blackburn" round="31" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="8655" participantname="Blackburn"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 14:30:00" id="840160" name="Fulham-Blackpool" round="31" status="Not started">
+            <participants>
+                <participant participantid="9879" participantname="Fulham"/>
+                <participant participantid="8483" participantname="Blackpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 17:00:00" id="840159" name="Manchester City-Sunderland" round="31" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="8472" participantname="Sunderland"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 13:45:00" id="840170" name="Wolverhampton-Everton" round="32" status="Not started">
+            <participants>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+                <participant participantid="8668" participantname="Everton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840174" name="Chelsea-Wigan" round="32" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840172" name="Bolton-West Ham" round="32" status="Not started">
+            <participants>
+                <participant participantid="8559" participantname="Bolton"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840168" name="Tottenham-Stoke" round="32" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="10194" participantname="Stoke"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840167" name="Sunderland-West Bromwich" round="32" status="Not started">
+            <participants>
+                <participant participantid="8472" participantname="Sunderland"/>
+                <participant participantid="8659" participantname="West Bromwich"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840171" name="Blackburn-Birmingham" round="32" status="Not started">
+            <participants>
+                <participant participantid="8655" participantname="Blackburn"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-09 16:00:00" id="840165" name="Manchester United-Fulham" round="32" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="9879" participantname="Fulham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 14:30:00" id="840173" name="Blackpool-Arsenal" round="32" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 17:00:00" id="840169" name="Aston Villa-Newcastle" round="32" status="Not started">
+            <participants>
+                <participant participantid="10252" participantname="Aston Villa"/>
+                <participant participantid="10261" participantname="Newcastle"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-11 21:00:00" id="840166" name="Liverpool-Manchester City" round="32" status="Not started">
+            <participants>
+                <participant participantid="8650" participantname="Liverpool"/>
+                <participant participantid="8456" participantname="Manchester City"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 13:45:00" id="840178" name="Newcastle-Manchester United" round="33" status="Not started">
+            <participants>
+                <participant participantid="10261" participantname="Newcastle"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840182" name="West Bromwich-Chelsea" round="33" status="Not started">
+            <participants>
+                <participant participantid="8659" participantname="West Bromwich"/>
+                <participant participantid="8455" participantname="Chelsea"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840181" name="Birmingham-Sunderland" round="33" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="8472" participantname="Sunderland"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840180" name="Fulham-Bolton" round="33" status="Not started">
+            <participants>
+                <participant participantid="9879" participantname="Fulham"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840183" name="Stoke-Wolverhampton" round="33" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840177" name="Everton-Blackburn" round="33" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="8655" participantname="Blackburn"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="840176" name="West Ham-Aston Villa" round="33" status="Not started">
+            <participants>
+                <participant participantid="8654" participantname="West Ham"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-16 16:00:00" id="839798" name="Blackpool-Wigan" round="33" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 14:30:00" id="840179" name="Manchester City-Tottenham" round="33" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="8586" participantname="Tottenham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 17:00:00" id="840175" name="Arsenal-Liverpool" round="33" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="8650" participantname="Liverpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-20 20:45:00" id="840134" name="Chelsea-Birmingham" round="28" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-20 20:45:00" id="840125" name="Tottenham-Arsenal" round="28" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 13:45:00" id="840185" name="Manchester United-Everton" round="34" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="8668" participantname="Everton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840190" name="Wolverhampton-Fulham" round="34" status="Not started">
+            <participants>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+                <participant participantid="9879" participantname="Fulham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840189" name="Aston Villa-Stoke" round="34" status="Not started">
+            <participants>
+                <participant participantid="10252" participantname="Aston Villa"/>
+                <participant participantid="10194" participantname="Stoke"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840188" name="Tottenham-West Bromwich" round="34" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="8659" participantname="West Bromwich"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840187" name="Sunderland-Wigan" round="34" status="Not started">
+            <participants>
+                <participant participantid="8472" participantname="Sunderland"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840186" name="Liverpool-Birmingham" round="34" status="Not started">
+            <participants>
+                <participant participantid="8650" participantname="Liverpool"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 16:00:00" id="840193" name="Blackpool-Newcastle" round="34" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="10261" participantname="Newcastle"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-23 18:30:00" id="840194" name="Chelsea-West Ham" round="34" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 17:00:00" id="840192" name="Bolton-Arsenal" round="34" status="Not started">
+            <participants>
+                <participant participantid="8559" participantname="Bolton"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-25 21:00:00" id="840191" name="Blackburn-Manchester City" round="34" status="Not started">
+            <participants>
+                <participant participantid="8655" participantname="Blackburn"/>
+                <participant participantid="8456" participantname="Manchester City"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 16:00:00" id="840203" name="Wigan-Everton" round="35" status="Not started">
+            <participants>
+                <participant participantid="8528" participantname="Wigan"/>
+                <participant participantid="8668" participantname="Everton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 16:00:00" id="840202" name="Blackpool-Stoke" round="35" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="10194" participantname="Stoke"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 16:00:00" id="840201" name="West Bromwich-Aston Villa" round="35" status="Not started">
+            <participants>
+                <participant participantid="8659" participantname="West Bromwich"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 16:00:00" id="840199" name="Blackburn-Bolton" round="35" status="Not started">
+            <participants>
+                <participant participantid="8655" participantname="Blackburn"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 16:00:00" id="840197" name="Sunderland-Fulham" round="35" status="Not started">
+            <participants>
+                <participant participantid="8472" participantname="Sunderland"/>
+                <participant participantid="9879" participantname="Fulham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-30 18:30:00" id="840204" name="Chelsea-Tottenham" round="35" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="8586" participantname="Tottenham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 13:00:00" id="840200" name="Birmingham-Wolverhampton" round="35" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 13:00:00" id="840196" name="Liverpool-Newcastle" round="35" status="Not started">
+            <participants>
+                <participant participantid="8650" participantname="Liverpool"/>
+                <participant participantid="10261" participantname="Newcastle"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 15:05:00" id="840195" name="Arsenal-Manchester United" round="35" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 17:10:00" id="840198" name="Manchester City-West Ham" round="35" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840214" name="Stoke-Arsenal" round="36" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840213" name="Bolton-Sunderland" round="36" status="Not started">
+            <participants>
+                <participant participantid="8559" participantname="Bolton"/>
+                <participant participantid="8472" participantname="Sunderland"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840212" name="Fulham-Liverpool" round="36" status="Not started">
+            <participants>
+                <participant participantid="9879" participantname="Fulham"/>
+                <participant participantid="8650" participantname="Liverpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840211" name="Wolverhampton-West Bromwich" round="36" status="Not started">
+            <participants>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+                <participant participantid="8659" participantname="West Bromwich"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840210" name="Newcastle-Birmingham" round="36" status="Not started">
+            <participants>
+                <participant participantid="10261" participantname="Newcastle"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840209" name="Everton-Manchester City" round="36" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="8456" participantname="Manchester City"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840208" name="Aston Villa-Wigan" round="36" status="Not started">
+            <participants>
+                <participant participantid="10252" participantname="Aston Villa"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840207" name="West Ham-Blackburn" round="36" status="Not started">
+            <participants>
+                <participant participantid="8654" participantname="West Ham"/>
+                <participant participantid="8655" participantname="Blackburn"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840206" name="Tottenham-Blackpool" round="36" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="8483" participantname="Blackpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-07 16:00:00" id="840205" name="Manchester United-Chelsea" round="36" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="8455" participantname="Chelsea"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840224" name="Chelsea-Newcastle" round="37" status="Not started">
+            <participants>
+                <participant participantid="8455" participantname="Chelsea"/>
+                <participant participantid="10261" participantname="Newcastle"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840222" name="Blackpool-Bolton" round="37" status="Not started">
+            <participants>
+                <participant participantid="8483" participantname="Blackpool"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840221" name="West Bromwich-Everton" round="37" status="Not started">
+            <participants>
+                <participant participantid="8659" participantname="West Bromwich"/>
+                <participant participantid="8668" participantname="Everton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840219" name="Blackburn-Manchester United" round="37" status="Not started">
+            <participants>
+                <participant participantid="8655" participantname="Blackburn"/>
+                <participant participantid="10260" participantname="Manchester United"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840218" name="Manchester City-Stoke" round="37" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="10194" participantname="Stoke"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840215" name="Arsenal-Aston Villa" round="37" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-14 16:00:00" id="840217" name="Sunderland-Wolverhampton" round="37" status="Not started">
+            <participants>
+                <participant participantid="8472" participantname="Sunderland"/>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 16:00:00" id="840216" name="Liverpool-Tottenham" round="37" status="Not started">
+            <participants>
+                <participant participantid="8650" participantname="Liverpool"/>
+                <participant participantid="8586" participantname="Tottenham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 16:00:00" id="840223" name="Wigan-West Ham" round="37" status="Not started">
+            <participants>
+                <participant participantid="8528" participantname="Wigan"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 16:00:00" id="840220" name="Birmingham-Fulham" round="37" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="9879" participantname="Fulham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840233" name="Bolton-Manchester City" round="38" status="Not started">
+            <participants>
+                <participant participantid="8559" participantname="Bolton"/>
+                <participant participantid="8456" participantname="Manchester City"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840232" name="Fulham-Arsenal" round="38" status="Not started">
+            <participants>
+                <participant participantid="9879" participantname="Fulham"/>
+                <participant participantid="9825" participantname="Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840231" name="Wolverhampton-Blackburn" round="38" status="Not started">
+            <participants>
+                <participant participantid="8602" participantname="Wolverhampton"/>
+                <participant participantid="8655" participantname="Blackburn"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840230" name="Newcastle-West Bromwich" round="38" status="Not started">
+            <participants>
+                <participant participantid="10261" participantname="Newcastle"/>
+                <participant participantid="8659" participantname="West Bromwich"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840229" name="Everton-Chelsea" round="38" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="8455" participantname="Chelsea"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840228" name="Aston Villa-Liverpool" round="38" status="Not started">
+            <participants>
+                <participant participantid="10252" participantname="Aston Villa"/>
+                <participant participantid="8650" participantname="Liverpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840227" name="West Ham-Sunderland" round="38" status="Not started">
+            <participants>
+                <participant participantid="8654" participantname="West Ham"/>
+                <participant participantid="8472" participantname="Sunderland"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840226" name="Tottenham-Birmingham" round="38" status="Not started">
+            <participants>
+                <participant participantid="8586" participantname="Tottenham"/>
+                <participant participantid="8658" participantname="Birmingham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840225" name="Manchester United-Blackpool" round="38" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="8483" participantname="Blackpool"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 17:00:00" id="840234" name="Stoke-Wigan" round="38" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="8528" participantname="Wigan"/>
+            </participants>
+        </fixture>
+    </fixtures>
+    <fixtures id="821290" league="LIGA BBVA" sport="Football" template="Spain LIGA BBVA" tournament="2010/2011" ut="2011-03-01">
+        <fixture date="2011-03-01 20:00:00" id="875757" name="Espanyol-Mallorca" round="26" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-01 22:00:00" id="875739" name="Sevilla-Gijon" round="26" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:00:00" id="875737" name="Zaragoza-Athletic Bilbao" round="26" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:00:00" id="875743" name="Getafe-Atletico Madrid" round="26" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:00:00" id="875746" name="Villarreal-Hercules" round="26" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:00:00" id="875756" name="Real Sociedad-Levante" round="26" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:00:00" id="875755" name="Osasuna-Deportivo La Coruna" round="26" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 22:00:00" id="875734" name="Valencia-Barcelona" round="26" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-03 20:00:00" id="875750" name="Almeria-Santander" round="26" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-03 22:00:00" id="875752" name="Real Madrid-Malaga" round="26" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 18:00:00" id="875772" name="Mallorca-Valencia" round="27" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 20:00:00" id="875774" name="Barcelona-Zaragoza" round="27" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-05 22:00:00" id="875781" name="Atletico Madrid-Villarreal" round="27" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 17:00:00" id="875778" name="Gijon-Getafe" round="27" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 17:00:00" id="875783" name="Hercules-Almeria" round="27" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 17:00:00" id="875789" name="Malaga-Osasuna" round="27" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 17:00:00" id="875793" name="Levante-Espanyol" round="27" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 19:00:00" id="875776" name="Athletic Bilbao-Sevilla" round="27" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-06 21:00:00" id="875786" name="Santander-Real Madrid" round="27" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-07 21:00:00" id="875792" name="Deportivo La Coruna-Real Sociedad" round="27" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-12 18:00:00" id="875835" name="Almeria-Atletico Madrid" round="28" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-12 20:00:00" id="875840" name="Real Madrid-Hercules" round="28" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-12 22:00:00" id="875823" name="Zaragoza-Valencia" round="28" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 17:00:00" id="875844" name="Osasuna-Santander" round="28" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 17:00:00" id="875851" name="Levante-Mallorca" round="28" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 17:00:00" id="875859" name="Espanyol-Deportivo La Coruna" round="28" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 17:00:00" id="875846" name="Real Sociedad-Malaga" round="28" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 19:00:00" id="875815" name="Villarreal-Gijon" round="28" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 21:00:00" id="875829" name="Sevilla-Barcelona" round="28" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-14 21:00:00" id="875832" name="Getafe-Athletic Bilbao" round="28" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875887" name="Santander-Real Sociedad" round="29" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875884" name="Hercules-Osasuna" round="29" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875880" name="Atletico Madrid-Real Madrid" round="29" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875877" name="Gijon-Almeria" round="29" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875874" name="Athletic Bilbao-Villarreal" round="29" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875868" name="Barcelona-Getafe" round="29" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875864" name="Valencia-Sevilla" round="29" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875862" name="Mallorca-Zaragoza" round="29" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875892" name="Deportivo La Coruna-Levante" round="29" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-20 20:00:00" id="875890" name="Malaga-Espanyol" round="29" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875928" name="Deportivo La Coruna-Mallorca" round="30" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875896" name="Sevilla-Zaragoza" round="30" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875923" name="Levante-Malaga" round="30" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875922" name="Espanyol-Santander" round="30" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875918" name="Real Sociedad-Hercules" round="30" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875916" name="Osasuna-Atletico Madrid" round="30" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875912" name="Real Madrid-Gijon" round="30" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875909" name="Almeria-Athletic Bilbao" round="30" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875902" name="Villarreal-Barcelona" round="30" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 20:00:00" id="875898" name="Getafe-Valencia" round="30" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875961" name="Malaga-Deportivo La Coruna" round="31" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875959" name="Santander-Levante" round="31" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875957" name="Hercules-Espanyol" round="31" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875955" name="Atletico Madrid-Real Sociedad" round="31" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875953" name="Gijon-Osasuna" round="31" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875952" name="Athletic Bilbao-Real Madrid" round="31" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875950" name="Barcelona-Almeria" round="31" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875949" name="Valencia-Villarreal" round="31" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875947" name="Zaragoza-Getafe" round="31" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-10 20:00:00" id="875946" name="Mallorca-Sevilla" round="31" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875975" name="Espanyol-Atletico Madrid" round="32" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875976" name="Levante-Hercules" round="32" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875977" name="Deportivo La Coruna-Santander" round="32" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875979" name="Malaga-Mallorca" round="32" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875973" name="Real Sociedad-Gijon" round="32" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875971" name="Osasuna-Athletic Bilbao" round="32" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875966" name="Villarreal-Zaragoza" round="32" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875963" name="Getafe-Sevilla" round="32" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875968" name="Almeria-Valencia" round="32" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-17 20:00:00" id="875970" name="Real Madrid-Barcelona" round="32" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="876000" name="Santander-Malaga" round="33" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875999" name="Hercules-Deportivo La Coruna" round="33" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875997" name="Atletico Madrid-Levante" round="33" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875995" name="Gijon-Espanyol" round="33" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875992" name="Athletic Bilbao-Real Sociedad" round="33" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875990" name="Barcelona-Osasuna" round="33" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875985" name="Sevilla-Villarreal" round="33" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875982" name="Mallorca-Getafe" round="33" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875987" name="Zaragoza-Almeria" round="33" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-24 20:00:00" id="875988" name="Valencia-Real Madrid" round="33" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876014" name="Santander-Mallorca" round="34" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876001" name="Villarreal-Getafe" round="34" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876002" name="Almeria-Sevilla" round="34" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876003" name="Real Madrid-Zaragoza" round="34" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876004" name="Osasuna-Valencia" round="34" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876005" name="Real Sociedad-Barcelona" round="34" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876006" name="Espanyol-Athletic Bilbao" round="34" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876008" name="Levante-Gijon" round="34" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876010" name="Deportivo La Coruna-Atletico Madrid" round="34" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-01 20:00:00" id="876012" name="Malaga-Hercules" round="34" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875531" name="Sevilla-Real Madrid" round="35" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875535" name="Valencia-Real Sociedad" round="35" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875528" name="Getafe-Almeria" round="35" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875544" name="Hercules-Santander" round="35" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875542" name="Atletico Madrid-Malaga" round="35" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875539" name="Gijon-Deportivo La Coruna" round="35" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875537" name="Athletic Bilbao-Levante" round="35" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875536" name="Barcelona-Espanyol" round="35" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875533" name="Zaragoza-Osasuna" round="35" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-08 20:00:00" id="875522" name="Mallorca-Villarreal" round="35" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875518" name="Hercules-Mallorca" round="36" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875515" name="Malaga-Gijon" round="36" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875517" name="Santander-Atletico Madrid" round="36" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875502" name="Osasuna-Sevilla" round="36" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875512" name="Deportivo La Coruna-Athletic Bilbao" round="36" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875509" name="Levante-Barcelona" round="36" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875507" name="Espanyol-Valencia" round="36" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875504" name="Real Sociedad-Zaragoza" round="36" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875499" name="Almeria-Villarreal" round="36" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-11 20:00:00" id="875501" name="Real Madrid-Getafe" round="36" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875479" name="Zaragoza-Espanyol" round="37" status="Not started">
+            <participants>
+                <participant participantid="8394" participantname="Zaragoza"/>
+                <participant participantid="8558" participantname="Espanyol"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875482" name="Barcelona-Deportivo La Coruna" round="37" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875481" name="Valencia-Levante" round="37" status="Not started">
+            <participants>
+                <participant participantid="10267" participantname="Valencia"/>
+                <participant participantid="8581" participantname="Levante"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875491" name="Atletico Madrid-Hercules" round="37" status="Not started">
+            <participants>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+                <participant participantid="10278" participantname="Hercules"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875468" name="Almeria-Mallorca" round="37" status="Not started">
+            <participants>
+                <participant participantid="9865" participantname="Almeria"/>
+                <participant participantid="8661" participantname="Mallorca"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875471" name="Villarreal-Real Madrid" round="37" status="Not started">
+            <participants>
+                <participant participantid="10205" participantname="Villarreal"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875487" name="Gijon-Santander" round="37" status="Not started">
+            <participants>
+                <participant participantid="9869" participantname="Gijon"/>
+                <participant participantid="8696" participantname="Racing Santander"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875478" name="Sevilla-Real Sociedad" round="37" status="Not started">
+            <participants>
+                <participant participantid="8302" participantname="Sevilla"/>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875483" name="Athletic Bilbao-Malaga" round="37" status="Not started">
+            <participants>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+                <participant participantid="9864" participantname="Malaga"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-15 20:00:00" id="875476" name="Getafe-Osasuna" round="37" status="Not started">
+            <participants>
+                <participant participantid="8305" participantname="Getafe"/>
+                <participant participantid="8371" participantname="Osasuna"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875447" name="Real Madrid-Almeria" round="38" status="Not started">
+            <participants>
+                <participant participantid="8633" participantname="Real Madrid"/>
+                <participant participantid="9865" participantname="Almeria"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875449" name="Osasuna-Villarreal" round="38" status="Not started">
+            <participants>
+                <participant participantid="8371" participantname="Osasuna"/>
+                <participant participantid="10205" participantname="Villarreal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875452" name="Espanyol-Sevilla" round="38" status="Not started">
+            <participants>
+                <participant participantid="8558" participantname="Espanyol"/>
+                <participant participantid="8302" participantname="Sevilla"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875453" name="Levante-Zaragoza" round="38" status="Not started">
+            <participants>
+                <participant participantid="8581" participantname="Levante"/>
+                <participant participantid="8394" participantname="Zaragoza"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875455" name="Deportivo La Coruna-Valencia" round="38" status="Not started">
+            <participants>
+                <participant participantid="9783" participantname="Deportivo La Coruna"/>
+                <participant participantid="10267" participantname="Valencia"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875456" name="Malaga-Barcelona" round="38" status="Not started">
+            <participants>
+                <participant participantid="9864" participantname="Malaga"/>
+                <participant participantid="8634" participantname="Barcelona"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875457" name="Santander-Athletic Bilbao" round="38" status="Not started">
+            <participants>
+                <participant participantid="8696" participantname="Racing Santander"/>
+                <participant participantid="8315" participantname="Athletic Bilbao"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875460" name="Hercules-Gijon" round="38" status="Not started">
+            <participants>
+                <participant participantid="10278" participantname="Hercules"/>
+                <participant participantid="9869" participantname="Gijon"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875461" name="Mallorca-Atletico Madrid" round="38" status="Not started">
+            <participants>
+                <participant participantid="8661" participantname="Mallorca"/>
+                <participant participantid="9906" participantname="Atletico Madrid"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-05-22 20:00:00" id="875450" name="Real Sociedad-Getafe" round="38" status="Not started">
+            <participants>
+                <participant participantid="8560" participantname="Real Sociedad"/>
+                <participant participantid="8305" participantname="Getafe"/>
+            </participants>
+        </fixture>
+    </fixtures>
+    <fixtures id="821395" league="Copa del Rey" sport="Football" template="Spain Copa del Rey" tournament="2010/2011" ut="2011-03-01">
+        <fixture date="2011-04-20 21:30:00" id="974714" name="Barcelona-Real Madrid" round="final" status="Not started">
+            <participants>
+                <participant participantid="8634" participantname="Barcelona"/>
+                <participant participantid="8633" participantname="Real Madrid"/>
+            </participants>
+        </fixture>
+    </fixtures>
+    <fixtures id="821576" league="Johnstones Paint Trophy" sport="Football" template="England Johnstones Paint Trophy" tournament="2010/2011" ut="2011-02-28">
+        <fixture date="2010-10-05 20:45:00" id="923291" name="Accrington-Stockport" round="2" status="Cancelled">
+            <participants>
+                <participant participantid="8671" participantname="Accrington"/>
+                <participant participantid="10007" participantname="Stockport"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-04-03 14:30:00" id="980873" name="Brentford-Carlisle" round="final" status="Not started">
+            <participants>
+                <participant participantid="9937" participantname="Brentford"/>
+                <participant participantid="10196" participantname="Carlisle"/>
+            </participants>
+        </fixture>
+    </fixtures>
+    <fixtures id="822092" league="FA Cup" sport="Football" template="England FA Cup" tournament="2010/2011" ut="2011-03-01">
+        <fixture date="2011-03-01 20:30:00" id="973868" name="Everton-Reading" round="5" status="Not started">
+            <participants>
+                <participant participantid="8668" participantname="Everton"/>
+                <participant participantid="9798" participantname="Reading"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:45:00" id="973857" name="Manchester City-Aston Villa" round="5" status="Not started">
+            <participants>
+                <participant participantid="8456" participantname="Manchester City"/>
+                <participant participantid="10252" participantname="Aston Villa"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-02 20:45:00" id="986928" name="Arsenal-Leyton Orient" round="5" status="Not started">
+            <participants>
+                <participant participantid="9825" participantname="Arsenal"/>
+                <participant participantid="8351" participantname="Leyton Orient"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-12 13:45:00" id="986932" name="Birmingham-Bolton" round="6" status="Not started">
+            <participants>
+                <participant participantid="8658" participantname="Birmingham"/>
+                <participant participantid="8559" participantname="Bolton"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-12 18:15:00" id="986930" name="Manchester United-L.Orient/Arsenal" round="6" status="Not started">
+            <participants>
+                <participant participantid="10260" participantname="Manchester United"/>
+                <participant participantid="248701" participantname="L.Orient/Arsenal"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 15:00:00" id="986931" name="Stoke-West Ham" round="6" status="Not started">
+            <participants>
+                <participant participantid="10194" participantname="Stoke"/>
+                <participant participantid="8654" participantname="West Ham"/>
+            </participants>
+        </fixture>
+        <fixture date="2011-03-13 17:45:00" id="986929" name="Man.City/Aston V-Everton/Reading" round="6" status="Not started">
+            <participants>
+                <participant participantid="6342" participantname="Man.City/Aston V"/>
+                <participant participantid="248702" participantname="Everton/Reading"/>
+            </participants>
+        </fixture>
+    </fixtures>
+</spocosy>
