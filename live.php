@@ -2,9 +2,10 @@
 
 // URL : http://127.0.0.1/live.php?league=Premiere%20Leaxgue&tournament=2010/2011
 
-// TRAITEMENT URL, on demande que la league et la date de la league sur l'URL..
+// si rien affecté sur l'url de base .. Premier League est affichés par defaut .. 
 $REQUESTED_League = "Premier League";
 
+// TRAITEMENT URL, on demande que la league et la date de la league sur l'URL..
 if(isset($_GET["league"])) 
 	{
 		$REQUESTED_League = $_GET["league"];
@@ -25,12 +26,17 @@ $DATA = simplexml_load_file("https://raw.githubusercontent.com/J3K/GitHub-REPO/m
 $X = getRequestedLeague($DATA,$REQUESTED_League);
 
 
-echo "REQUESTED_League : ".$REQUESTED_League;
+echo "REQUESTED_League : b JSON ".$REQUESTED_League;
 
-// affichage Array retournée par getRequestedLeague($DATA,$REQUESTED_League);
 echo "<pre>";
-print_r($X);
+print_r(json_encode(array($X)));
 echo "</pre>";
+// affichage Array retournée par getRequestedLeague($DATA,$REQUESTED_League);
+//echo "<pre>";
+//print_r($X);
+//echo "</pre>";
+
+
 
 
 
