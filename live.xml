@@ -11,6 +11,16 @@
                 <result id="7942189" type="runningscore" value="0"/>
             </results>
         </liveevent>
+        <liveevent date="2011-03-01 21:45:00" gamestarted="" id="839993" name="Liverpool-Manchester City" round="18" secondhalfstarted="" status="Not started">
+            <results participantid="8455" participantname="Liverpool">
+                <result id="7942186" type="ordinarytime" value="0"/>
+                <result id="7942188" type="runningscore" value="0"/>
+            </results>
+            <results participantid="10260" participantname="Manchester City">
+                <result id="7942187" type="ordinarytime" value="0"/>
+                <result id="7942189" type="runningscore" value="0"/>
+            </results>
+        </liveevent>
     </liveevents>
     <liveevents id="821290" league="LIGA BBVA" sport="Football" template="Spain LIGA BBVA" tournament="2010/2011" ut="2011-03-01">
         <liveevent date="2011-03-01 20:00:00" gamestarted="" id="875757" name="Espanyol-Mallorca" round="26" secondhalfstarted="" status="Not started">
